@@ -1,0 +1,16 @@
+{
+  "name": "saucedemo-test-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npx playwright install"
+  },
+  "keywords": [],
+  "author": "ahmad",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1"
+  }
+}

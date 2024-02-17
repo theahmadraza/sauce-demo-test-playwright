@@ -1,0 +1,4 @@
+{
+  "emptyErrorMessage": "Epic sadface: Username is required",
+  "invalidCredentialsErrorMessage": "Epic sadface: Username and password do not match any user in this service"
+}
